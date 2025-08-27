@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student's learning how to code in C#, Python and SQL.
+I'm a computer science students and i like to create programs to solve my problems. I used to code in Python, but now I'm learning C#, Javascript and improving SQL.
 
 
 ## 🌐 Socials:
